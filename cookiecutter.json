@@ -1,5 +1,5 @@
 {
     "directory_name": "base_template",
     "author_name": "Hélio Paiva",
-    "compatible_python_versions": "^3.8"
+    "compatible_python_versions": "^3.10"
 }
