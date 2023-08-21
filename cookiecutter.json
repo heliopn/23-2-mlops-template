@@ -1,5 +1,5 @@
 {
-    "directory_name": "project-name",
-    "author_name": "Your Name",
+    "directory_name": "Base Template",
+    "author_name": "Hélio Paiva",
     "compatible_python_versions": "^3.8"
 }
