@@ -1,1 +1,1 @@
-# 23-2-mlops-template
+# Base template for cookiecutter
